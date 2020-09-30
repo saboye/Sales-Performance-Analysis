@@ -30,3 +30,5 @@ Color code the chart to identify Categories and Segments that are above or below
 Add the year of sales to the view to identify trends and outliers. 
 Add a filter so that the user can select one, more than one, or all years. 
 Create a dashboard with this view.
+<a href="https://public.tableau.com/profile/samuel.g.#!/vizhome/SalesPerformacevsTarget/SalesPerformancevsTargetDB">Dashboard</a>
+
